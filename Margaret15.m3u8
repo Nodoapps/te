@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=354646,AVERAGE-BANDWIDTH=354646,RESOLUTION=416x234,FRAME-RATE=25.000,CODECS="avc1.42C01E,mp4a.40.2",AUDIO="audio_0"
+https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/35a2fd4db20640e3af362c79c12e3dc0/x-discovery-token=Expires=1674401452&KeyName=primary&Signature=5TIw5qFfvnsl4V1TXPwutNEw6Y4/start/1674345600/index_53.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=481852,AVERAGE-BANDWIDTH=473411,RESOLUTION=416x234,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"
+https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/35a2fd4db20640e3af362c79c12e3dc0/x-discovery-token=Expires=1674401452&KeyName=primary&Signature=5TIw5qFfvnsl4V1TXPwutNEw6Y4/start/1674345600/index_54.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=702156,AVERAGE-BANDWIDTH=671446,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/35a2fd4db20640e3af362c79c12e3dc0/x-discovery-token=Expires=1674401452&KeyName=primary&Signature=5TIw5qFfvnsl4V1TXPwutNEw6Y4/start/1674345600/index_7.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1211236,AVERAGE-BANDWIDTH=1129046,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/35a2fd4db20640e3af362c79c12e3dc0/x-discovery-token=Expires=1674401452&KeyName=primary&Signature=5TIw5qFfvnsl4V1TXPwutNEw6Y4/start/1674345600/index_6.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1681156,AVERAGE-BANDWIDTH=1551446,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/35a2fd4db20640e3af362c79c12e3dc0/x-discovery-token=Expires=1674401452&KeyName=primary&Signature=5TIw5qFfvnsl4V1TXPwutNEw6Y4/start/1674345600/index_5.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1994436,AVERAGE-BANDWIDTH=1833046,RESOLUTION=960x540,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/35a2fd4db20640e3af362c79c12e3dc0/x-discovery-token=Expires=1674401452&KeyName=primary&Signature=5TIw5qFfvnsl4V1TXPwutNEw6Y4/start/1674345600/index_4.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2620996,AVERAGE-BANDWIDTH=2396246,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
+https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/35a2fd4db20640e3af362c79c12e3dc0/x-discovery-token=Expires=1674401452&KeyName=primary&Signature=5TIw5qFfvnsl4V1TXPwutNEw6Y4/start/1674345600/index_3.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4091929,AVERAGE-BANDWIDTH=3718429,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
+https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/35a2fd4db20640e3af362c79c12e3dc0/x-discovery-token=Expires=1674401452&KeyName=primary&Signature=5TIw5qFfvnsl4V1TXPwutNEw6Y4/start/1674345600/index_2.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=6845352,AVERAGE-BANDWIDTH=6193411,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
+index_1.m3u8
+#EXT-X-IMAGE-STREAM-INF:BANDWIDTH=180673,RESOLUTION=640x360,CODECS="jpeg",URI="https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/35a2fd4db20640e3af362c79c12e3dc0/x-discovery-token=Expires=1674401452&KeyName=primary&Signature=5TIw5qFfvnsl4V1TXPwutNEw6Y4/start/1674345600/index_66.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=96000,CODECS="avc1.42C01E",RESOLUTION=416x234,URI="https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/35a2fd4db20640e3af362c79c12e3dc0/x-discovery-token=Expires=1674401452&KeyName=primary&Signature=5TIw5qFfvnsl4V1TXPwutNEw6Y4/start/1674345600/index_55.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Ambient Sound",LANGUAGE="qis",DEFAULT=YES,AUTOSELECT=YES,URI="https://europe-fastly-mediashield-live-prod.cdn.h264.io/primary/2/35a2fd4db20640e3af362c79c12e3dc0/x-discovery-token=Expires=1674401452&KeyName=primary&Signature=5TIw5qFfvnsl4V1TXPwutNEw6Y4/start/1674345600/index_11_0.m3u8"
